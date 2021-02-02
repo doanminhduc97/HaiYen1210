@@ -15,7 +15,7 @@
    - Lý do 3
 3.
 4. Trong 4 đề xuất trên đề xuất thứ 4 phù hợp với quy ước trong clean code.
-5.Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
+5. Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
 
 https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan1/post-management
 ## Phần 2: OOP và SOLID
