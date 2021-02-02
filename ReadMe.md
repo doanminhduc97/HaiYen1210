@@ -20,16 +20,16 @@
 https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan1/post-management
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/feature/dev/Phan2/GraphicEditor
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan2/GraphicEditor
 
 ### 2. Composition over Inheritance và DI
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/feature/dev/Phan3
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan3
 ## Phần 4: Thiết kế RESTful API
 
 ## Phần 5: Lập trình Restful API
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/feature/dev/Phan5/spring-trategy-pattern
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan5/spring-trategy-pattern
 
 ## Trắc nghiệm
 1. Điều nào không đúng khi nói về Design Pattern?
