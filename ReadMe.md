@@ -17,19 +17,19 @@
 4. Trong 4 đề xuất trên đề xuất thứ 4 phù hợp với quy ước trong clean code.
 5. Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
 
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan1/post-management
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan1
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan2/GraphicEditor
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan2
 
 ### 2. Composition over Inheritance và DI
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan3
 ## Phần 4: Thiết kế RESTful API
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan4/registration-user
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan4
 ## Phần 5: Lập trình Restful API
-https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan5/spring-trategy-pattern
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan5
 
 ## Trắc nghiệm
 1. Điều nào không đúng khi nói về Design Pattern?
