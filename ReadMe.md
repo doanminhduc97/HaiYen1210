@@ -27,7 +27,7 @@ https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan2/
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan3
 ## Phần 4: Thiết kế RESTful API
-
+https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan4/registration-user
 ## Phần 5: Lập trình Restful API
 https://github.com/doanminhduc97/Bai-Tap-Cuoi-Khoa-Clean-Code/tree/master/Phan5/spring-trategy-pattern
 
