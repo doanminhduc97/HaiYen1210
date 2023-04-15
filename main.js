@@ -1,6 +1,3 @@
-// Author: Hoang Tran (https://www.facebook.com/profile.php?id=100004848287494)
-// Github verson (1 file .html): https://github.com/HoangTran0410/3DCarousel/blob/master/index.html
-
 // You can change global variables here:
 var radius = 240; // how big of the radius
 var autoRotate = true; // auto rotate or not
@@ -11,15 +8,7 @@ var imgHeight = 170; // height of images (unit: px)
 // Link of background music - set 'null' if you dont want to play background music
 var bgMusicURL =
   "https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a";
-var bgMusicControls = true; // Show UI music control
-
-/*
-     NOTE:
-       + imgWidth, imgHeight will work for video
-       + if imgWidth, imgHeight too small, play/pause button in <video> will be hidden
-       + Music link are taken from: https://hoangtran0410.github.io/Visualyze-design-your-own-/?theme=HauMaster&playlist=1&song=1&background=28
-       + Custom from code in tiktok video  https://www.facebook.com/J2TEAM.ManhTuan/videos/1353367338135935/
-*/
+var bgMusicControls = false; // Show UI music control
 
 // ===================== start =======================
 // animation start after 1000 miliseconds
